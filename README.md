@@ -58,4 +58,4 @@ I'm always interested in discovering new ideas, exploring different approaches, 
 
 ---
 
-### 🚀 Build things. Learn continuously. Share knowledge. Keep improving.
+### open to collaboration.
