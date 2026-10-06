@@ -1,5 +1,6 @@
-# hey
+# AFDOTDEV
 
+HEllo
 I am a software developer focused on building AI-powered products, scalable web applications, and production-ready systems. I enjoy working across the entire software lifecycle, from architecture and development to deployment, automation, monitoring, and continuous improvement.
 
 My primary interest is applying AI to real-world problems through modern software engineering practices. I work comfortably across the stack and enjoy designing systems that are maintainable, scalable, and built to last.
