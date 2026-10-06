@@ -1,97 +1,26 @@
 # AFDOTDEV
 
-HEllo,
-I am a software developer focused on building AI-powered products, scalable web applications, and production-ready systems. I enjoy working across the entire software lifecycle, from architecture and development to deployment, automation, monitoring, and continuous improvement.
+Hello,
 
-My primary interest is applying AI to real-world problems through modern software engineering practices. I work comfortably across the stack and enjoy designing systems that are maintainable, scalable, and built to last.
+I’m a software developer interested in building intelligent, scalable, and production-ready software. I enjoy working across the full software lifecycle, from designing and developing applications to deployment, automation, and continuous improvement.
 
-## Focus Areas
+My main focus is applying modern software engineering and AI to solve real-world problems. I’m particularly interested in building systems that are reliable, maintainable, scalable, and practical.
 
-- Artificial Intelligence & LLM Applications
-- Agentic Systems & Workflow Automation
-- Full-Stack Web Development
-- Cloud-Native Architecture
-- API Design & Integrations
-- System Design & Scalability
+## Areas of Interest
+
+- AI & Intelligent Applications
+- Full-Stack Software Development
+- Cloud & Distributed Systems
+- Automation & Developer Tooling
 - DevOps & Platform Engineering
-- Developer Productivity & Tooling
+- APIs & System Integrations
+- System Design & Scalability
+- Software Architecture
 
-## Backend
+## How I Work
 
-Experience building APIs, services, and distributed systems using a variety of technologies and architectural patterns.
+I enjoy exploring ideas, building practical solutions, experimenting with new technologies, and turning concepts into working software. I value clean architecture, automation, continuous learning, and solutions that are built to evolve.
 
-- REST & GraphQL APIs
-- Microservices & Event-Driven Systems
-- Authentication & Authorization
-- Database Design & Optimization
-- Caching & Performance Engineering
-- Message Queues & Asynchronous Processing
-- AI Model Integration & Orchestration
+I’m also interested in connecting with developers, engineers, and creators, learning from the community, and contributing to interesting projects.
 
-## Frontend
-
-Building responsive, accessible, and modern user experiences with a focus on performance and maintainability.
-
-- Component-Based Architectures
-- Single Page Applications
-- State Management
-- Design Systems
-- Responsive UI/UX
-- Performance Optimization
-- Data Visualization & Interactive Dashboards
-
-## AI & Automation
-
-Developing intelligent applications that combine language models, retrieval systems, automation workflows, and external integrations.
-
-- LLM-Powered Applications
-- AI Agents & Multi-Agent Systems
-- Retrieval-Augmented Generation (RAG)
-- Semantic Search
-- Prompt Engineering
-- Workflow Automation
-- Tool Calling & System Integrations
-
-## Scripting & Automation
-
-Using scripting and automation to streamline development workflows, infrastructure management, and operational tasks.
-
-- Python
-- JavaScript / TypeScript
-- Shell Scripting
-- Task Automation
-- Data Processing Pipelines
-- Build Automation
-
-## DevOps & Cloud
-
-Building and maintaining reliable environments across development, staging, and production.
-
-- Docker & Containerization
-- Infrastructure as Code
-- Kubernetes
-- Cloud Platforms
-- Reverse Proxies & Load Balancers
-- Monitoring & Observability
-- Security & Secrets Management
-
-## CI/CD
-
-Automating delivery pipelines to ensure fast, repeatable, and reliable deployments.
-
-- Git-Based Workflows
-- Continuous Integration
-- Automated Testing
-- Build Pipelines
-- Deployment Automation
-- Release Management
-- Production Rollbacks
-- Environment Management
-
-## Development Philosophy
-
-I believe great software is built through continuous iteration, strong engineering fundamentals, and a focus on solving real problems. I prefer practical solutions over unnecessary complexity, value automation wherever possible, and enjoy taking products from initial concept to production deployment.
-
----
-
-**AI • Engineering • Automation • Shipping**
+**AI • Engineering • Automation • Building**
